@@ -1,10 +1,12 @@
-package epicodus.com.stormy;
+package epicodus.com.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import epicodus.com.stormy.R;
 
 /**
  * Created by jake on 6/10/15.
